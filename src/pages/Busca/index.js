@@ -12,7 +12,6 @@ import Box from '@material-ui/core/Box';
 import Cabecalho from '../../components/Cabecalho'
 import Hoje from '../Hoje'
 import Semana from '../Semana'
-
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
