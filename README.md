@@ -1,5 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Layout
+Intro page
+![image](https://user-images.githubusercontent.com/69986144/111032696-43538680-83ec-11eb-950f-a557e075aab5.png)
+Today's weather forecast
+![image](https://user-images.githubusercontent.com/69986144/111032732-70a03480-83ec-11eb-8215-8db851ef6412.png)
+10 days weather forecast
+![image](https://user-images.githubusercontent.com/69986144/111032784-af35ef00-83ec-11eb-85d0-bc54aa92f3b4.png)
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
